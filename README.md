@@ -11,3 +11,4 @@ These queries encompass identifying
 - PgAdmin4
 
 Schema: Maven Toys Database
+![](schema.png)
