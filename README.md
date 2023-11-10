@@ -1,4 +1,6 @@
-# SQL-Data-Insights-Maven-Toys-Operational-Analysis
+# SQL-Data-Analysis
+
+## Maven Toys Operational Insights
 
 The project entailed utilizing PostgresSQL to establish a relational database, importing relevant datasets, and generating various reports to address diverse business questions. 
 
@@ -11,5 +13,5 @@ These queries encompass identifying;
 - PostgreSQL
 - PgAdmin4
 
-Schema: Maven Toys Database
+Entity-Relationship Diagram (ERD): Maven Toys Database
 ![](schema.png)
