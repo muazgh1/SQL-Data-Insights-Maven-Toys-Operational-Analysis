@@ -1,6 +1,6 @@
-# SQL-Data-Analysis
+# SQL-Data-Insights
 
-## Maven Toys Operational Insights
+## Maven Toys Operational Analysis
 
 The project entailed utilizing PostgresSQL to establish a relational database, importing relevant datasets, and generating various reports to address diverse business questions. 
 
